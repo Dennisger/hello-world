@@ -1,4 +1,6 @@
 hello-world
 ===========
 
-first
+Hi there 
+
+Mission 1 ready for take off 
